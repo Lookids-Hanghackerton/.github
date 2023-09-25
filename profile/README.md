@@ -63,7 +63,7 @@
 ## 프로젝트 문서
 
 - API 명세서 : [📣 항해커톤 마법소녀(중략), Kikids 페이지 - API 명세서](https://www.notion.so/API-1721169101e145f7a49198d6cc733295?pvs=21)
-- ERD : 📌
+- ERD : 📌 [📣 항해커톤 마법소녀(중략), Kikids 페이지 - ERD](https://www.notion.so/dusunax/ERD-ce16dc4c96bc4a04877fb11a7dffc6de?pvs=4)
 
 # 사용 기술
 
