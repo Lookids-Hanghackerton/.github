@@ -29,7 +29,7 @@
 
 | 팀원 | 역할 | 캐릭터 | 개인 페이지 |
 | --- | --- | --- | --- |
-| 김종범 | BE | 백엔드 마스코트 🐱 | 📌 원하는 개인 페이지 url 입력 (기술 블로그, 깃허브 등) |
+| 김종범 | BE | 백엔드 마스코트 🐱 | |
 | 최락현 | FE | 든든 팀장 🤠 | https://github.com/chasura416 |
 | 두선아 | FE | 정리 빌런 😈 | https://github.com/dusunax |
 | 김현지 | FE | 작은 멤버 🧚‍♀️ |  |
@@ -38,9 +38,7 @@
 ## 배포
 
 ```
-💝 ! Kikids는 배포 준비중입니다 !
-
-📌 Todo : 배포 후 다이어그램 작성하기
+💝 
 ```
 
 - 기능 개선 및 배포 준비 사항  
@@ -63,7 +61,7 @@
 ## 프로젝트 문서
 
 - API 명세서 : [📣 항해커톤 마법소녀(중략), Kikids 페이지 - API 명세서](https://www.notion.so/API-1721169101e145f7a49198d6cc733295?pvs=21)
-- ERD : 📌 [📣 항해커톤 마법소녀(중략), Kikids 페이지 - ERD](https://www.notion.so/dusunax/ERD-ce16dc4c96bc4a04877fb11a7dffc6de?pvs=4)
+- ERD : [📣 항해커톤 마법소녀(중략), Kikids 페이지 - ERD](https://www.notion.so/dusunax/ERD-ce16dc4c96bc4a04877fb11a7dffc6de?pvs=4)
 
 # 사용 기술
 
@@ -83,7 +81,7 @@ React TypeScript NextJS ReactQuery tailwindCSS
 
 ## BACK END
 
-- 기술 스택 : 📌 종범님 이거 작성해주세요!  작성한 다음에 뱃지로 정리할 예정!
+- 기술 스택 : 
 
 ```jsx
 JAVA SpringBoot
